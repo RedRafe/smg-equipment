@@ -1,0 +1,13 @@
+{
+  "name": "smg-equipment",
+  "version": "1.0.0",
+  "title": "SMG Equipment",
+  "author": "RedRafe",
+  "source": "https://github.com/RedRafe/smg-equipment",
+  "homepage": "https://mods.factorio.com/mod/smg-equipment",
+  "dependencies": [
+    "base >= 2.0.0"
+  ],
+  "description": "Equip the **Personal SMG** in your armor and turn into a one-person army! This mod adds a powerful automatic Submachine Gun that defends you against enemies, making exploration safer and more exciting. Perfect for solo play and enhancing your combat experience in Factorio!",
+  "factorio_version": "2.0"
+}
